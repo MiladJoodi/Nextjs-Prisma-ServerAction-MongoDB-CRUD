@@ -22,7 +22,7 @@ export default function Info() {
           <br />
           Technologies used:
           <ul className="list-disc list-inside mt-2 space-y-1 text-xs">
-            <li>Next.js 13 with App Router and Server Actions</li>
+            <li>Next.js 15 with App Router and Server Actions</li>
             <li>Prisma ORM for database access</li>
             <li>Zod for input validation</li>
             <li>React Hooks and useActionState for form handling</li>
