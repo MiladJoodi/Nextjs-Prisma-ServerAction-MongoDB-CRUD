@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { deleteTitle } from '../actions/delete'
-import Form from './Form'
+import Form from './Forms'
 
 type Props = {
   id: string

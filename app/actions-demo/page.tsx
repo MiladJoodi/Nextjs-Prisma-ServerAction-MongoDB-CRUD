@@ -1,5 +1,5 @@
 import { prisma } from '@/lib/prisma'
-import Form from './form'
+import Form from './Forms'
 import TitleItem from './TitleItem'
 import Info from './Info';
 
