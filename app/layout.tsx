@@ -27,6 +27,31 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+
+         {/* GitHub Ribbon */}
+         <a
+          href="https://github.com/MiladJoodi/Nextjs-Prisma-ServerAction-MongoDB-CRUD"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            position: "fixed",
+            top: 0,
+            left: 0,
+            border: 0,
+            zIndex: 1000,
+          }}
+        >
+          <img
+            src="https://github.blog/wp-content/uploads/2008/12/forkme_left_darkblue_121621.png"
+            alt="Fork me on GitHub"
+            width="149"
+            height="149"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+
+
         {children}
       </body>
     </html>
