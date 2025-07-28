@@ -5,6 +5,10 @@
 
 ---
 
+🚀 Check out the live demo here: [https://server-actions.netlify.app](https://server-actions.netlify.app)
+
+---
+
 ## 🧠 About the Project
 
 This is a **basic example app** to demonstrate how to use **Server Actions** in a real-world flow.  
