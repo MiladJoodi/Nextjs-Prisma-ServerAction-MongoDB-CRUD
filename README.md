@@ -1,7 +1,7 @@
 # Server Actions CRUD with Next.js 15, Prisma & MongoDB
 
 🔧 A minimal fullstack CRUD app using **Next.js 15 App Router**, **Server Actions**, **Prisma**, and **MongoDB**.  
-✏️ Add, edit, and delete simple text titles — with no external API, no extra client requests. Just clean and native server actions.
+Add, edit, and delete simple text titles — with no external API, no extra client requests. Just clean and native server actions.
 
 ---
 
